@@ -1,0 +1,36 @@
+E:\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+E:\Projects\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\canterlot.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\changeling.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\fire ball.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\twilicorn.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Twilight Attack.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+E:\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+E:\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Score.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\GameOver.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Boing.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\magic_spell_cast_1.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\music.xnb
+E:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\music.wma
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\canterlot.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\changeling.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\fire ball.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\twilicorn.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Twilight Attack.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\GameOver.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Score.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Boing.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\magic_spell_cast_1.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\music.xnb
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\music.wma
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+F:\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+F:\Projects\Game1\Game1\Game1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+F:\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\JosephPak\Desktop\MLPFIM Canterlot Defender\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\JosephPak\Desktop\MLPFIM Canterlot Defender\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb

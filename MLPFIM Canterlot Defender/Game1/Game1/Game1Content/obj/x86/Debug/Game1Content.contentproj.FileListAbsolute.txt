@@ -1,0 +1,2 @@
+E:\Projects\Game1\Game1\Game1Content\obj\x86\Debug\Game1Content.contentprojResolveAssemblyReference.cache
+F:\Projects\Game1\Game1\Game1Content\obj\x86\Debug\ResolveAssemblyReference.cache
